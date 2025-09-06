@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175806144774",
+    "project_id": "routin0-app",
+    "storage_bucket": "routin0-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175806144774:android:a60bd46c872bc2a461fe87",
+        "android_client_info": {
+          "package_name": "com.example.routino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175806144774-7rqff3nduv8eos4braedjf4r839l07p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.routino",
+            "certificate_hash": "7eb21c13fd9c60426daf849b9ba01a1c9d976567"
+          }
+        },
+        {
+          "client_id": "175806144774-vje8jd9hs57l75t80b8g3ut44srathtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLp5mVpEK_sW2qGDYQvKB7KuFpja2nPx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175806144774-vje8jd9hs57l75t80b8g3ut44srathtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
